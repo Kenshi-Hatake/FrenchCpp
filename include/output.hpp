@@ -1,0 +1,1 @@
+#define affiche(Quoi) { std::cout << Quoi << std::endl; }
