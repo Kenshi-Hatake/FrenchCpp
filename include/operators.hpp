@@ -1,4 +1,4 @@
-#define est_egal_a ==
+#define est_egal ==
 #define plus_grand >
 #define plus_petit <
 #define plus_grand_egal >=

@@ -1,2 +1,2 @@
 #define structure struct
-#define numerotage enum
+#define enumeration enum
