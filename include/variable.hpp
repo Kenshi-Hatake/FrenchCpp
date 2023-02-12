@@ -13,3 +13,5 @@
 
 #define tableau_dynamique(variable) variable[]
 #define tableau_static(variable, taille) variable[taille]
+
+#define egal =
